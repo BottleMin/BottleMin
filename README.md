@@ -1,9 +1,8 @@
-## 🧠 About Me
+🎓 M.S. student in AI @ Chung-Ang University
+🌐 Personal Homepage: https://sites.google.com/view/byungmin-park/home
+📫 Email: byungmin_park@vilab.cau.ac.kr
 
-Hi 👋 I'm a Master's student at Chung-Ang University.
-
-My research focuses on **Anomaly Detection**, and I am particularly interested in
-
+- My research focuses on **Anomaly Detection**, and I am particularly interested in 
 developing **interpretable AI systems** using **multi-modal models and LLMs**.
 
 ## 🔬 Research Interests
@@ -17,10 +16,3 @@ developing **interpretable AI systems** using **multi-modal models and LLMs**.
 - Designing interpretable anomaly detection frameworks using multi-modal data
 - Exploring effective ways to integrate external knowledge via retrieval mechanisms
 - Leveraging LLMs to enhance reasoning and explainability in AI models
-
-## 📫 Contact
-
-If you are interested in my research or have any questions,  
-feel free to reach out via email:
-
-📧 byungmin_park@vilab.cau.ac.kr
