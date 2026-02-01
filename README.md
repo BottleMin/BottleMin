@@ -1,16 +1,26 @@
-## Hi there 👋
+## 🧠 About Me
 
-<!--
-**BottleMin/BottleMin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi 👋 I'm a Master's student in AI at Chung-Ang University.
 
-Here are some ideas to get you started:
+My research focuses on **Anomaly Detection**, and I am particularly interested in
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+developing **interpretable AI systems** using **multi-modal models and LLMs**.
+
+🔬 Research Interests
+
+- Interpretable AI with Multi-modal Models & LLMs
+- Retrieval-Augmented Models (Incorporating External Knowledge into AI Systems)
+- Anomaly Detection ()
+
+### 🧪 Current Research Focus
+
+- Designing interpretable anomaly detection frameworks using multi-modal data
+- Exploring effective ways to integrate external knowledge via retrieval mechanisms
+- Leveraging LLMs to enhance reasoning and explainability in AI models
+
+## 📫 Contact
+
+If you are interested in my research or have any questions,  
+feel free to reach out via email:
+
+📧 byungmin_park@vilab.cau.ac.kr
