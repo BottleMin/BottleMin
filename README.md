@@ -6,13 +6,13 @@ My research focuses on **Anomaly Detection**, and I am particularly interested i
 
 developing **interpretable AI systems** using **multi-modal models and LLMs**.
 
-🔬 Research Interests
+## 🔬 Research Interests
 
 - Interpretable AI with Multi-modal Models & LLMs
 - Retrieval-Augmented Models (Incorporating External Knowledge into AI Systems)
 - Anomaly Detection ()
 
-### 🧪 Current Research Focus
+## 🧪 Current Research Focus
 
 - Designing interpretable anomaly detection frameworks using multi-modal data
 - Exploring effective ways to integrate external knowledge via retrieval mechanisms
