@@ -1,6 +1,6 @@
 ## 🧠 About Me
 
-Hi 👋 I'm a Master's student in AI at Chung-Ang University.
+Hi 👋 I'm a Master's student at Chung-Ang University.
 
 My research focuses on **Anomaly Detection**, and I am particularly interested in
 
@@ -10,7 +10,7 @@ developing **interpretable AI systems** using **multi-modal models and LLMs**.
 
 - Interpretable AI with Multi-modal Models & LLMs
 - Retrieval-Augmented Models (Incorporating External Knowledge into AI Systems)
-- Anomaly Detection ()
+- Industrial Anomaly Detection
 
 ## 🧪 Current Research Focus
 
