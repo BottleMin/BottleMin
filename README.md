@@ -4,17 +4,12 @@
 
 📫 Email: byungmin_park@vilab.cau.ac.kr
 
-My research focuses on **Anomaly Detection**, and I am particularly interested in 
-developing interpretable AI systems using multi-modal models and LLMs.
+My research focuses on Industrial AI systems, with a particular interest in developing AI solutions for industrial automation.
 
 ## 🔬 Research Interests
+- Industrial Inspection AI Systems (Smart Factory)
+- Robotics leveraging Vision-Language-Action (VLA) models
+- Industrial applications using SLAM and 3D Gaussian Splatting (3DGS)
 
-- Interpretable AI with Multi-modal Models & LLMs
-- Retrieval-Augmented Models (Incorporating External Knowledge into AI Systems)
-- Industrial Anomaly Detection
-
-## 🧪 Current Research Focus
-
-- Designing interpretable anomaly detection frameworks using multi-modal data
-- Exploring effective ways to integrate external knowledge via retrieval mechanisms
-- Leveraging LLMs to enhance reasoning and explainability in AI models
+## Current research focus
+- Robotics-based industrial AI systems for robust defect detection under varying viewpoints and illumination conditions
